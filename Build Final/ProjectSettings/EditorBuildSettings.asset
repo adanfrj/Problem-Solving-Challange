@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: b58cc03849e52274aa8786f598ef5b29
+  - enabled: 1
+    path: Assets/Problem 1/Problem 1.unity
+    guid: 2f3450a847e238e4b890690cef4a2f51
+  - enabled: 1
+    path: Assets/Problem 2/Problem 2.unity
+    guid: 7983acf0bce2ce1488de213f8899b4b5
+  - enabled: 1
+    path: Assets/Problem 3/Problem 3.unity
+    guid: 8a016e97f0131894ab0a8fe278505f1e
+  - enabled: 1
+    path: Assets/Problem 4/Problem 4.unity
+    guid: 549cd1025901d8d439f82f9d17bbbf12
+  - enabled: 1
+    path: Assets/Problem 5/Problem 5.unity
+    guid: a885d05b8341c3d4da810b713e84c0e6
+  - enabled: 1
+    path: Assets/Problem 6/Problem 6.unity
+    guid: 3ffd1a5b89f9e3a4683376f3f089d236
+  - enabled: 1
+    path: Assets/Problem 7/Problem 7.unity
+    guid: 3671573df414afe4ea2c960da72399b1
+  - enabled: 1
+    path: Assets/Problem 8/Problem 8.unity
+    guid: fb07885f6c6d7a246b8d96981801f510
+  - enabled: 1
+    path: Assets/Problem 9/BrickBreaker.unity
+    guid: ad874d1cf281fe543be4bf071e6ea6c6
+  - enabled: 1
+    path: Assets/Problem 9/Level 2.unity
+    guid: 9364e1978621f1344bd6e8b04f8678a0
+  m_configObjects: {}
